@@ -1,13 +1,13 @@
-Vue Typescript Getter Calculated Once Demo
-==========================================
+Vue Typescript Getter Computed Once Demo
+========================================
 
-The `getter` method in a vue component is calculated only once (that's good).
+The `getter` method in a vue component is computed only once.
 
 Display many times:
 
 ![demo1.jpg](./images/demo1.jpg)
 
-Only calculated once:
+Only computed once (good!):
 
 ![demo2.jpg](./images/demo2.jpg)
 
